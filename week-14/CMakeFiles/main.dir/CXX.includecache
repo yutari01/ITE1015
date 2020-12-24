@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tari/Git/2020059525/week-14/main.cc
+iostream
+-
+screen.hpp
+/home/tari/Git/2020059525/week-14/screen.hpp
+utility.hpp
+/home/tari/Git/2020059525/week-14/utility.hpp
+
+/home/tari/Git/2020059525/week-14/src/screen.cc
+screen.hpp
+/home/tari/Git/2020059525/week-14/src/screen.hpp
+
+include/screen.hpp
+vector
+-
+ostream
+-
+utility.hpp
+include/utility.hpp
+
+include/utility.hpp
+random
+-
+iterator
+-
+

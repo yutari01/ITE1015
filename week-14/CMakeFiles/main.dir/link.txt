@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cc.o CMakeFiles/main.dir/src/screen.cc.o  -o main 

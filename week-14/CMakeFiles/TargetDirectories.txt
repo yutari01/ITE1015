@@ -1,0 +1,3 @@
+/home/tari/Git/2020059525/week-14/CMakeFiles/rebuild_cache.dir
+/home/tari/Git/2020059525/week-14/CMakeFiles/edit_cache.dir
+/home/tari/Git/2020059525/week-14/CMakeFiles/main.dir

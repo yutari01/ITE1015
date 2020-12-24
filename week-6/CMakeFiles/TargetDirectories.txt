@@ -1,0 +1,3 @@
+/home/yutari/2020059525/week-6/CMakeFiles/rebuild_cache.dir
+/home/yutari/2020059525/week-6/CMakeFiles/edit_cache.dir
+/home/yutari/2020059525/week-6/CMakeFiles/main.dir
